@@ -1,5 +1,5 @@
 ## Instancias-ec2AWS
-EC2- Elastic Compute Cloud: São as máquinas virtuais na AWS, podendo ser com sistema operacional Windows ou Linux.
+EC2- Elastic Compute Cloud: São as máquinas virtuais na AWS, podendo ser criadas com sistema operacional Windows ou Linux.
 O Amazon Elastic Computer Cloud (EC2) Nos fornece a capacidade de computação na cloud da AWS.
 As imagens de máquinas da Amazon estão disponíveis para escolha no momento da sua criação.
 Existe vários tipos de otimização de recursos sendo eles: Desligando instâncias não utilizadas; Removendo recursos ociosos ou não utilizados e Escalar recursos no sistema.
